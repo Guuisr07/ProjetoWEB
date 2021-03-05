@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 34px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+  border-radius: 3px;
+  box-shadow: 3px;
+}
